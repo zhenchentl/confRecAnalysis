@@ -6,7 +6,7 @@
 # @Version : $Id$
 # @Description:
 
-import os
+import sys
 import redis
 import logging
 
