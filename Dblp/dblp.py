@@ -9,6 +9,7 @@
 import sys
 sys.path.append('..')
 from Redis.redisHelper import RedisHelper
+from utils.params import *
 from xml.sax import handler, make_parser
 import logging
 
@@ -68,15 +69,15 @@ class dblpHandler(handler.ContentHandler):
             self.isYearTag = False
         if self.isAuthorTag:
             self.authors.append(content)
-            self.isYearTag = False
+            self.isAuthorTag = False
 
 def parserDblpXml():
-    handler = mHandler()
+    handler = dblpHandler()
     parser = make_parser()
     parser.setContentHandler(handler)
     f = open(DBLP_XML_PATH,'r')
     parser.parse(f)
     f.close()
 
- if __name__ == '__main__':
-     parserDblpXml()
+if __name__ == '__main__':
+    parserDblpXml()

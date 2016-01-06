@@ -58,13 +58,13 @@ class RedisHelper(object):
                 if au != coau:
                     self.addAuCoauthor(au, coau, year)
 
-    def addAuCoauthor(self, author, coauthor, year):
+    def addAuCoauthor(self, author, coauthor, time):
         self.AuCoauSet.sadd(author, coauthor)
         self.AuCoauTimeSet.sadd(author + ':' + coauthor, time)
 
     def addAuConf(self, author, conf, time):
         self.AuConfSet.sadd(author, conf)
-        self.AuConfTimeSet.sadd(author + ':' + conf, year)
+        self.AuConfTimeSet.sadd(author + ':' + conf, time)
 
     def addAuPaper(self, author, paper):
         self.AuPaperSet.sadd(author, paper)
@@ -76,7 +76,7 @@ class RedisHelper(object):
         self.ConfAuSet.sadd(conf, author)
 
     def addPaperTime(self, paperId, time):
-        self.PaperTime.self(paperId, time)
+        self.PaperTime.set(paperId, time)
 
     def getAllAuthors(self):
         return self.AuConfSet.keys()

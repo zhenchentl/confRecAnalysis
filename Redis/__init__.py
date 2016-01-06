@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Date    : 2016-01-04 21:07:38
+# @Date    : 2016-01-05 21:04:46
 # @Author  : Damon Chen (Damon@zhenchen.me)
 # @Link    : www.zhenchen.me
 # @Version : $Id$
@@ -8,4 +8,3 @@
 
 import os
 
-DBLP_XML_PATH = "../../data/dblp.xml"
