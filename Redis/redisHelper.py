@@ -33,7 +33,7 @@ DB_AU_CONF_TIME_SET = 6
 DB_PAPER_TIME = 7
 
 class RedisHelper(object):
-    """docstring for RedisHelper"""
+    """访问Redis数据库，基本的数据操作。"""
     def __init__(self):
         try:
             self.AuCoauSet = redis.StrictRedis(IP, PORT, db = DB_AU_COAU_SET)
@@ -48,6 +48,14 @@ class RedisHelper(object):
             logging.error("can not open Redis database!")
 
     def addPaperItem(self, authors, paperId, conf, year):
+        """ 增加一条论文的信息到redis数据库中。
+
+        Arguments:
+            authors {String} -- 学者姓名
+            paperId {Integer} -- 论文ID
+            conf {String} -- 会议/期刊名称
+            year {String} -- 发表年份
+        """
         self.addConfPaper(conf, paperId)
         for au in authors:
             self.addAuConf(au, conf, year)
