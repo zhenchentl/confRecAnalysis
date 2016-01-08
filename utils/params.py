@@ -18,3 +18,4 @@ OUTPUT_ACADEMIC_LEVEL_PAPER_COAU_NUM = "../result/level/conf_paper_coau_num.txt"
 
 OUTPUT_COLLAB_CONF_LEAD_COLLAB_PROB = "../result/collaboration/conf_lead_collab_prob.txt"
 OUTPUT_COLLAB_COAU_NUM_LEAD_BY_CONF = "../result/collaboration/coau_num_lead_by_conf.txt"
+OUTPUT_COLLAB_CONF_LEAD_POTENRIAL_COAU = "../result/collaboration/conf_lead_poten_coau.txt"

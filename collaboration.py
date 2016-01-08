@@ -99,7 +99,7 @@ class CollaborationFeature(object):
                     avg = 0
                 else:
                     avg = sum(v) * 1.0 / len(v)
-                fileWriter.write(str(k) + '\t' + str(avg))
+                fileWriter.write(str(k) + '\t' + str(avg) + '\n')
         fileWriter.close()
         confCountCLCPDictList = {}
 
@@ -136,12 +136,38 @@ class CollaborationFeature(object):
                     avg = 0
                 else:
                     avg = sum(v) * 1.0 / len(v)
-                fileWriter.write(str(k) + '\t' + str(avg))
+                fileWriter.write(str(k) + '\t' + str(avg) + '\n')
         fileWriter.close()
         ConfCountCoauDictList = {}
 
+    def getConfLeadPotentialCoaus(self):
+        ConfCountPotentialCoausDict = dict()
+        authors = self.mRedis.getAllAuthors()
+        for author in authors:
+            confs = self.mRedis.getAuConfs(author)
+            potentialCoaus = list()
+            for conf in confs:
+                potentialCoaus.extend(self.mRedis.getConfAuthors(conf))
+            coAuthors = self.mRedis.getAuCoauthors(author)
+            PotenCoauNum = len(set(potentialCoaus) - set(coAuthors))
+            tmp = ConfCountPotentialCoausDict.setdefault(PotenCoauNum, [])
+            tmp.append(PotenCoauNum)
+            confs = []
+            potentialCoaus = []
+            coAuthors = []
+        authors = []
+        with open(OUTPUT_COLLAB_CONF_LEAD_POTENRIAL_COAU, 'w') as fileWriter:
+            for k, v in ConfCountPotentialCoausDict.items():
+                if len(v) == 0:
+                    avg = 0
+                else:
+                    avg = sum(v) * 1.0 / len(v)
+                fileWriter.write(str(k) + '\t' + str(avg) + '\n')
+        fileWriter.close()
+        ConfCountPotentialCoausDict = {}
 
 if __name__ == '__main__':
     cf = CollaborationFeature()
     # cf.getConfLeadCollabProb()
-    cf.getCoauLeadByConf()
+    # cf.getCoauLeadByConf()
+    cf.getConfLeadPotentialCoaus
