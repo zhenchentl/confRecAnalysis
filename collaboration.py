@@ -149,11 +149,8 @@ class CollaborationFeature(object):
         authors = self.mRedis.getAllAuthors()
         authorDict = dict()
         index = 0
-        while index < 200000:
-            author = random.choice(authors)
-            if authorDict.has_key(author):
-                continue
-            authorDict[author] = True
+        for author in authors:
+            index += 1
             if index % 1000 == 0:
                 logging.info(index)
             confs = self.mRedis.getAuConfs(author)
