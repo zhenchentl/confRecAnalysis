@@ -142,12 +142,24 @@ class CollaborationFeature(object):
 
     def getConfLeadPotentialCoaus(self):
         ConfCountPotentialCoausDict = dict()
+        confAuthorDict = dict()
+        confs = self.mRedis.getAllConfs()
+        for conf in confs:
+            confAuthorDict[conf] = self.mRedis.getConfAuthors(conf)
         authors = self.mRedis.getAllAuthors()
-        for author in authors:
+        authorDict = dict()
+        index = 0
+        while index < 200000:
+            author = random.choice(authors)
+            if authorDict.has_key(author):
+                continue
+            authorDict[author] = True
+            if index % 1000 == 0:
+                logging.info(index)
             confs = self.mRedis.getAuConfs(author)
             potentialCoaus = list()
             for conf in confs:
-                potentialCoaus.extend(self.mRedis.getConfAuthors(conf))
+                potentialCoaus.extend(confAuthorDict[conf])
             coAuthors = self.mRedis.getAuCoauthors(author)
             PotenCoauNum = len(set(potentialCoaus) - set(coAuthors))
             tmp = ConfCountPotentialCoausDict.setdefault(PotenCoauNum, [])
@@ -156,6 +168,7 @@ class CollaborationFeature(object):
             potentialCoaus = []
             coAuthors = []
         authors = []
+        confAuthorDict = {}
         with open(OUTPUT_COLLAB_CONF_LEAD_POTENRIAL_COAU, 'w') as fileWriter:
             for k, v in ConfCountPotentialCoausDict.items():
                 if len(v) == 0:
@@ -170,4 +183,4 @@ if __name__ == '__main__':
     cf = CollaborationFeature()
     # cf.getConfLeadCollabProb()
     # cf.getCoauLeadByConf()
-    cf.getConfLeadPotentialCoaus
+    cf.getConfLeadPotentialCoaus()
