@@ -45,6 +45,29 @@ class CollaborationFeature(object):
         sameConfCoaus = []
         return False
 
+    def isCoauLeadByConf(self, author, coau):
+        auCoauTimes = self.mRedis.getAuCoauTimes(author, coau)
+        authorConfs = self.mRedis.getAuConfs(author)
+        coauConfs = self.mRedis.getAuConfs(coau)
+        sameConfs = set(authorConfs) & set(coauConfs)
+        if len(sameConfs) > 1:
+            confTimes = list()
+            for conf in sameConfs:
+                confTimes.extend(self.mRedis.getAuConfTimes(author, conf))
+            if min(auCoauTimes) > min(confTimes):
+                auCoauTimes = []
+                authorConfs = []
+                coauConfs = []
+                sameConfs = []
+                confTimes = []
+                return True
+        auCoauTimes = []
+        authorConfs = []
+        coauConfs = []
+        sameConfs = []
+        confTimes = []
+        return False
+
     def getConfLeadCollabProb(self):
         confCountCLCPDictList = dict()
         authors = self.mRedis.getAllAuthors()
@@ -80,6 +103,45 @@ class CollaborationFeature(object):
         fileWriter.close()
         confCountCLCPDictList = {}
 
+    def getCoauLeadByConf(self):
+        ConfCountCoauDictList = dict()
+        authors = self.mRedis.getAllAuthors()
+        authorDict = dict()
+        index = 0
+        while index < 200000:
+            author = random.choice(authors)
+            if authorDict.has_key(author):
+                continue
+            authorDict[author] = True
+            auCoauthors = self.mRedis.getAuCoauthors(author)
+            authorConfs = self.mRedis.getAuConfs(author)
+            confCnt = len(authorConfs)
+            if confCnt < 2:
+                continue
+            index += 1
+            if index % 1000 == 0:
+                logging.info(index)
+            CLCsNum = 0
+            for coau in auCoauthors:
+                if self.isCoauLeadByConf(author, coau):
+                    CLCsNum += 1
+            tmp = ConfCountCoauDictList.setdefault(confCnt, [])
+            tmp.append(CLCsNum)
+            authorConfs = []
+            auCoauthors = []
+        authors = []
+        with open(OUTPUT_COLLAB_COAU_NUM_LEAD_BY_CONF, 'w') as fileWriter:
+            for k, v in ConfCountCoauDictList.items():
+                if len(v) == 0:
+                    avg = 0
+                else:
+                    avg = sum(v) * 1.0 / len(v)
+                fileWriter.write(str(k) + '\t' + str(avg))
+        fileWriter.close()
+        ConfCountCoauDictList = {}
+
+
 if __name__ == '__main__':
     cf = CollaborationFeature()
-    cf.getConfLeadCollabProb()
+    # cf.getConfLeadCollabProb()
+    cf.getCoauLeadByConf()
