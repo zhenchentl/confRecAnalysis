@@ -15,3 +15,5 @@ OUTPUT_STATISTIC_AUTHOR_COAU_NUM = "../result/statistic/author_coau_num.txt"
 OUTPUT_STATISTIC_AUTHOR_CONF_NUM = "../result/statistic/author_conf_num.txt"
 
 OUTPUT_ACADEMIC_LEVEL_PAPER_COAU_NUM = "../result/level/conf_paper_coau_num.txt"
+
+OUTPUT_COLLAB_CONF_LEAD_COLLAB_PROB = "../result/collaboration/conf_lead_collab_prob.txt"
