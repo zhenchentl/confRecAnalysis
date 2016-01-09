@@ -154,12 +154,13 @@ class CollaborationFeature(object):
             if index % 1000 == 0:
                 logging.info(index)
             confs = self.mRedis.getAuConfs(author)
+            confCnt = len(confs)
             potentialCoaus = list()
             for conf in confs:
                 potentialCoaus.extend(confAuthorDict[conf])
             coAuthors = self.mRedis.getAuCoauthors(author)
             PotenCoauNum = len(set(potentialCoaus) - set(coAuthors))
-            tmp = ConfCountPotentialCoausDict.setdefault(PotenCoauNum, [])
+            tmp = ConfCountPotentialCoausDict.setdefault(confCnt, [])
             tmp.append(PotenCoauNum)
             confs = []
             potentialCoaus = []
