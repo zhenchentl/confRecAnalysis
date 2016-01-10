@@ -1,0 +1,1000 @@
+Francisco Fern	78
+Justin Zobel	74
+John Bush	6
+Juan Carlos Baraza	13
+Robert J. Elliott	21
+Ojelanki K. Ngwenyama	28
+Carmela Comito	36
+Hideyuki Tokuda	80
+Michael J. Flynn	59
+Walter Cerroni	34
+Anirban Sengupta	25
+Odej Kao	81
+Hermann Hellwagner	83
+Gin	93
+Michael K. Reiter	81
+Robert M. Hierons	78
+Fernanda Campos	19
+Paul E. Summers	18
+Jong Youl Choi	21
+Pheng-Ann Heng	89
+Kun Li	78
+Mark de Berg	57
+Marcos Jos	31
+Jin-Zhi Wang	7
+Mohamed Ally	8
+James H. Martin	39
+Wenyu Qu	59
+Omar A. El Sawy	11
+Baher Haroun	12
+Magnus Jonsson	37
+Jitender S. Deogun	99
+Hyoung-Joo Kim	42
+Jordi Arjona Aroca	10
+Feng Pan	94
+Monaldo Mastrolilli	44
+Ba-Ngu Vo	30
+Gonzalo Navarro	98
+Kais Feltekh	2
+Leandro Marques Nascimento	11
+Romeo Rizzi	71
+Svein J. Knapskog	32
+Willem-Jan van den Heuvel	56
+Rama Chellappa	92
+Diego Calvanese	93
+Suchendra M. Bhandarkar	68
+Gemma Bel Enguix	32
+Liang Zhong	25
+Xiangjian He	93
+Rafael Wisniewski	19
+Marina Carvalho	1
+Paola Ronzino	4
+Nicholas Hammond	4
+Jianying Zhou	83
+Stefan Berger	35
+Reuven Bar-Yehuda	46
+Matthew Young	6
+Allan Hanbury	62
+Youguang Zhang	30
+Ehab Al-Shaer	48
+Kai Shen	46
+Ingrid Moerman	87
+Marcin Luckner	15
+Melanie Volkamer	45
+Jianfeng Wang	58
+Carlos Gonz	97
+Jeffrey D. Ullman	74
+Kuo-Chin Fan	50
+Eyke H	73
+Mehdi Dehghan	69
+Pedro A. Gonz	46
+P. J. Azzopardi	2
+Kevin Knight	34
+Ting Chen	98
+Alex-Yianing Yen	1
+Eric Horvitz	74
+Xiaowei Li 0001	49
+Yeuan-Kuen Lee	13
+Yu Zhu	56
+Ahmed E. Kamal	42
+Timos K. Sellis	96
+Shan Jiang	48
+Qin Liu	87
+Jong-Hwan Lee	16
+Fahad Javed	12
+Robert DeLine	29
+Shu Liao	18
+Henry C. W. Lau	43
+Inmaculada Garc	80
+Gang Zhao	82
+R. K. Shyamasundar	87
+David E. Culler	90
+Fadila Bentayeb	35
+Matthew K. Franklin	39
+Aladdin Ayesh	29
+Young-Geun Choi	5
+Georgy L. Gimel'farb	53
+Sethuraman Panchanathan	90
+Jim-Min Lin	34
+Saurabh Bagchi	56
+M. Manzur Murshed	73
+Kazuyuki Aihara	78
+Brian Mirtich	11
+O-Hoon Choi	13
+Jeff Gray	68
+Orlando Belo	43
+Haizhou Li	79
+Guillaume Piolle	11
+Reinhold Weiss	90
+Leonid Libkin	60
+Kamel Barkaoui	79
+Tung-Shou Chen	47
+Szil	74
+Dominique Lavenier	44
+David W. Cheung	43
+Kaushik Roy	90
+Yossi Azar	47
+Lingxiao Jiang	24
+Hao Yin	64
+Richard O. Sinnott	55
+Janine D. Mendola	3
+Francis G. Wolff	27
+Konstantinos N. Plataniotis	78
+Prashant Krishnamurthy	51
+Yih-Fang Huang	30
+Ming-Chien Shan	37
+John Kubiatowicz	56
+Xin Tong	71
+Ehud Gudes	67
+Shutang Liu	10
+Johannes Konert	13
+Daniel Gatica-Perez	60
+Chaitali Chakrabarti	50
+Jian He	41
+Johannes A. Buchmann	73
+Francisco J. Cant	15
+Paolo Giorgini	77
+Mark Levene	88
+JongWon Kim 0001	69
+Serge Fdida	83
+Daniela Rus	97
+Kevin Skadron	50
+Eduardo Bayro-Corrochano	40
+Linh Anh Nguyen	39
+Knut Hinkelmann	33
+Henk Ernst Blok	14
+Flemming Nielson	82
+Haim Kaplan	64
+Hung-Min Sun	71
+David Hung-Chang Du	71
+Yu Cheng	88
+Rainer Malaka	45
+Eduard Calvo	9
+Jeffrey Scott Vitter	92
+Dapeng Wu	57
+Yufeng Wang	89
+Massoud Pedram	76
+Ken-ichi Matsumoto	69
+Toshihiko Nagai	2
+J. G. Hunt	3
+Maurice Clerc	19
+Guozhu Dong	65
+Wolfgang Koch	41
+Bin Zhu	70
+Wei Cheng	88
+Alfredo Cuzzocrea	95
+Ying Zhou	72
+Juan Antonio L	15
+Enrico Vicario	50
+Em	81
+Ho-fung Leung	95
+David Sander	9
+Shouyang Wang	89
+Patrizia Scandurra	38
+Ulrich Ramacher	23
+Rafael Mart	88
+Raphael C.-W. Phan	66
+Paul J. Layzell	35
+Adam Pr	42
+Zonghuan Xu	2
+Byoung-Kee Yi	16
+Yiannis Aloimonos	56
+Hartmut Schmeck	86
+Gangfeng Yan	21
+Olivier Terzo	14
+Michael D. Smith	44
+Alejandra Cechich	39
+Hiroshi Sawada	45
+Daniel D	72
+Mitsuji Matsumoto	36
+Francisco Escolano	28
+Ananth Grama	72
+Noga Alon	86
+Helmut Veith	74
+Barry L. Drake	12
+Yi Ma	84
+Xinyu Wang	78
+Sylvain Hall	38
+Thierry Divoux	23
+Qiang Gao	53
+Mih	99
+Eckehard G. Steinbach	65
+Hamid Soltanian-Zadeh	53
+Dave Roberts	19
+Jin Yang	97
+Koen De Bosschere	70
+Wolfgang Bibel	37
+J. Andr	41
+Stefan Fischer 0001	86
+Meng Li	93
+Shan Wang	78
+Stefan Sch	66
+Zheng Rong Yang	32
+Alejandro Ramirez-Serrano	25
+Mike Burmester	60
+Olga Zoidi	14
+Abdul Naeem	7
+Zohar Manna	76
+Daniel K	72
+Adrian Friday	46
+Sunil Kumar	87
+Hyunhee Park	18
+Umberto Straccia	72
+Antonio Vallecillo	50
+Radu Jurca	20
+Jianhua Chen	87
+Stephen S. Yau	68
+Dimitris Plexousakis	83
+Driss Aboutajdine	94
+Minghua Chen	52
+Guillermo Ricardo Simari	59
+Lili Cui	17
+Chong-Yung Chi	25
+Binhong Dong	10
+Weidong Wang	67
+Paulo Pinto	31
+Dimitris Bertsimas	33
+Richard Nock	66
+Ronald D. Bonnell	9
+Paolo Remagnino	54
+Xing Chen	55
+Ankur Teredesai	38
+Rupak Majumdar	77
+Yongzhao Zhan	47
+Minkyu Song	15
+Fan Li	98
+Lu Yang	83
+Tobias H	94
+Jeffrey A. Fessler	19
+Moncef Gabbouj	99
+Michael von der Beeck	17
+Hong Man	50
+Alexander Pokahr	37
+Andreas Holzinger	63
+Alexander Maedche	55
+Paul A. Swatman	27
+Jan Cornelis	51
+Massimo Paolucci 0002	22
+Rodrigo de Oliveira	17
+Yajun Zhang	18
+Alice Marascu	12
+Lei Zhu	99
+Jon G. Rokne	71
+Stuart Weibel	12
+Akihiko Ohsuga	69
+Juan Carlos Gonz	41
+Zhong Zheng	38
+Timoth	79
+Robert C. Moore	22
+Tian Xia	97
+Ming-Tat Ko	48
+Otman A. Basir	54
+Dhamin Al-Khalili	32
+Tahsin M. Kur	61
+Michael Sch	100
+A. Benjamin Premkumar	45
+Dejan Vukobratovic	36
+Zhiwei Xu	97
+Manfred Glesner	96
+Henry Wolkowicz	20
+Nagarajan Ranganathan	37
+Scott A. Smolka	82
+Fillia Makedon	100
+De-Nian Yang	34
+Ugur 	57
+Kevin C. Almeroth	74
+Pierre Tchounikine	28
+Candace L. Sidner	36
+Lei Zhang 0006	75
+Alexei Hern	2
+Abdulsalam Yassine	23
+Lei Zhang 0001	45
+Kevin O. Stoeckigt	4
+Antonella Petrillo	15
+Vicente Pelechano	59
+David C. Hogg	41
+Robin Williams	30
+Jin-Kao Hao	73
+Hermann H	57
+Ping Yang	98
+Teruko Mitamura	30
+Francesco Pappalardo	22
+Peter A. Lindsay	30
+Christopher C. Yang	60
+Ildik	90
+Guisheng Zhai	23
+Milos Manic	21
+Judith Kelner	65
+George Drettakis	29
+Lars Schmidt-Thieme	66
+Yibo He	6
+Ling Xu	47
+Roman Smierzchalski	8
+James M. Bieman	39
+Yan Ma	86
+Luca Spalazzi	39
+Zeungnam Bien	42
+Rudy Hirschheim	40
+Takuma Yamaguchi	8
+Stefan van der Spek	7
+Tetsuo Kinoshita	52
+Hamid Aghvami	40
+Roland T. Chin	20
+Lothar Lemnitzer	13
+Tereza Cristina M. B. Carvalho	29
+Kensuke Fukuda	59
+Mianxiong Dong	54
+Joachim Hertzberg	47
+Florin Dragomir	6
+Arthur H. M. ter Hofstede	87
+Diego Gragnaniello	10
+Jianping Yin	69
+Yuan-Cheng Lai	60
+Guangyao Zhao	5
+Peng Chen	78
+Russell Schwartz	27
+Shashidhar Merugu	9
+Matthias B	80
+Gianluigi Greco	72
+Jan-Ming Ho	76
+Long Cheng	72
+Manuela M. Veloso	80
+Manuel Esteve	31
+Roberto Tamassia	96
+Yi Jiang	91
+Hu Chen	47
+Pedro Oliveira	20
+Maode Ma	58
+H. Hannah Inbarani	16
+Samuel P. Midkiff	40
+Yan Zhu	46
+Gwi-Tae Park	43
+Sahibzada Ali Mahmud	24
+Chung-Horng Lung	71
+Ravishankar K. Iyer	76
+Kai Schubert	10
+Amir Pnueli	82
+Christoph Beierle	72
+Sang-Ho Lee	52
+Alfons Kemper	85
+David Ko	9
+Khai Pang Leong	8
+Markus Endler	42
+Gueesang Lee	48
+Javier Fern	94
+Kenneth M. Anderson	24
+Jie Zhu	84
+Per 	48
+Michael Wooldridge	94
+David Chen	62
+Wolfgang Effelsberg	95
+Angelos Bilas	41
+Nada Matta	22
+Yue Zhao	94
+Xuemin Shen	73
+James R. Larus	49
+Binoy Ravindran	89
+Roberto K. Champney	5
+Alfredo Vellido	49
+Jacques-Olivier Lachaud	32
+Tassos Dimitriou	44
+Mario Jino	37
+Pierre Verbaeten	37
+David Dagan Feng	98
+Hiroshi Tanaka	57
+Andreas Hotho	67
+Wee Keong Ng	89
+Philippe Gambette	14
+Kia Ng	26
+Hongbo Li	51
+Holger Hermanns	83
+Andrzej M. Goscinski	45
+Kun Zhang	96
+Shunji Osaki	24
+David Garc	65
+Carla Vilela	3
+Richard Hughey	21
+Michael Quade	14
+Feng Hong	44
+Yue Xu	72
+Isabelle Bloch	85
+Lili Wang	79
+Alberto Gonz	65
+Jonathon T. Giffin	12
+Yue Ma	91
+Scott Doniger	4
+Prasant Mohapatra	95
+Shamik Sural	75
+Anisur Rahman	11
+Stefan Werner	52
+Kincho H. Law	34
+Din-Yuen Chan	19
+Wang-Chien Lee	97
+Fotis I. Lazarakis	23
+Ney Laert Vilar Calazans	34
+Liang Lu	43
+Joseph A. Goguen	84
+Kurt De Grave	11
+Song Han	91
+Heike Wehrheim	51
+Susan J. Eggers	35
+David Evans	65
+Johan Bos	26
+Joo-Hwee Lim	59
+Thomas Rauber	69
+Jean-Marc Odobez	52
+Xiaojun Wang	70
+David Z. Pan	28
+Borja Navarro-Colorado	8
+Krishnendu Chatterjee	66
+Nicholas Kushmerick	41
+Zheng Zhao	57
+Konstantinos Kalpakis	30
+Andreas Podelski	73
+Frances M. T. Brazier	77
+Zhang Xiong	89
+Eitan Altman	99
+Shiyuan Yang	27
+Toufik Ahmed	44
+Rodrigo Rodrigues	36
+Abhishek Das	22
+Yao Liu	68
+Luca Maria Gambardella	91
+Naomi Hir	1
+Andrzej Cichocki	99
+Frank van Harmelen	79
+Erich J. Neuhold	77
+Nirvana Meratnia	40
+Daniel Merkle	53
+Angelo E. M. Ciarlini	28
+Andrea Kov	5
+Luciano Baresi	89
+Hong Linh Truong	88
+Earl D. Sacerdoti	7
+Zhang Tao	9
+John V. Harrison	24
+Mark J. Huiskes	12
+Anastasios Gounaris	44
+Hongke Zhang	77
+Guoliang Xue	75
+Juyang Weng	49
+Jie Yu	96
+Marten van Sinderen	88
+Haitao Wang	77
+Jean Guy Meunier	8
+Weihong Deng	23
+Silvia Villa	11
+T. Aaron Gulliver	81
+Andy Carpenter	14
+Werner Kuhn	35
+Karthick Rajamani	19
+Trent Jaeger	44
+Carlos A. Coello Coello	75
+Shengli Xie	54
+Carlos 	19
+Yongwei Wu	42
+Vijay D'Silva	20
+Habib Youssef	65
+Lucas Graebin	5
+Masato Takadachi	2
+Xin Lu	69
+Wei Yan	91
+Jianping Fan	62
+Qunsheng Peng	58
+Danny Krizanc	96
+Oliver G	85
+Hideaki Takeda 0001	67
+Hussein Zedan	56
+Alexandre X. Falc	56
+Moshe Kam	48
+Burkhard Stiller	85
+Tetsuo Sawaragi	42
+Giuseppe Attardi	45
+Tommi Mikkonen	84
+Francisco J. Mart	57
+Huan He	15
+Bin Ma	94
+Wolfgang Renz	26
+Maurizio Lenzerini	91
+Walter Didimo	39
+Norman E. Fenton	36
+Shiguang Shan	49
+Chun-Yuen Lin	8
+Bin Yu	92
+Robbert van Renesse	64
+Theodore S. Papatheodorou	60
+Tun Li	22
+Nele Mentens	26
+Rongbin Xu	6
+Hai	1
+Yiu-Kai Ng	51
+Brian Murphy	28
+Mikael Rittri	6
+Ali R. Hurson	86
+Sean M. Falconer	16
+Emilio Luque	92
+Walter Vogler	47
+Bingli Jiao	35
+Bernt Schiele	57
+Jie Wu	100
+Orna Kupferman	56
+Shuicheng Yan	75
+Peter Rittgen	25
+Basilio B. Fraguela	38
+Beatriz L	54
+Katsuhiro Honda	28
+Vikas Kumar	35
+P. Roland	3
+Ali Movaghar	84
+Hui Guo	80
+Sabyasachi Dutta	4
+Scott R. Tilley	32
+Hiroyuki Morita	14
+Jorge Bernardino	25
+Meghanad D. Wagh	27
+David D	67
+Ying Cui	36
+Umer Salim	22
+Jerry L. Denlinger	2
+Amol Ghoting	24
+Enrico Pontelli	95
+Weiyi Liu	39
+Quan Z. Sheng	82
+Javier Mart	93
+Ragnar Nevries	10
+Susanne E. Hambrusch	48
+Masahiko Morita	15
+Xiaoming Chen	79
+Xingwei Wang	96
+Christian G	61
+Rene Leonardo Cruz	1
+A. Mansour	7
+Roel Wieringa	94
+John Darlington	58
+William E. Hart	28
+Christopher D. Gill	52
+Mihalis Yannakakis	69
+Chuanbo Chen	23
+Moo Su	1
+Francesco Longo	53
+Yassine Hadjadj Aoul	30
+Jianwei Zhang 0001	61
+J. Madhukara	3
+Hang Joon Kim	34
+Jun-Ichi Aoe	30
+Jun Du	67
+Ying Bai	20
+Oscal T.-C. Chen	21
+Mauricio Mar	45
+Colin Atkinson	68
+Ning Xi	60
+Juan M. Corchado	97
+J. M. Sanz-Serna	8
+Chun-Ju Li	2
+Shalom Lappin	13
+Yu Hen Hu	73
+Feng Qin	46
+Xuanhua Shi	52
+Bertrand Meyer	89
+Hang Zhao	18
+Ahmed K. Elmagarmid	76
+Qing Zhao	77
+Bala Srinivasan	93
+Amirali Salehi-Abari	20
+Thierry Gautier	59
+Marco Dorigo	83
+Eiji Okamoto	90
+Darko Kirovski	55
+Gabriela P. Henning	16
+Shaobo Li	11
+Thomas R. Gross	99
+David J. Hawkes	37
+Brendan Tangney	26
+Ming T. Liu	41
+Qiang Zheng	21
+David J. Lilja	81
+Alexandra Poulovassilis	69
+Jinjun Chen	61
+Emanuele Menegatti	34
+Xiaodong Zhang 0001	98
+Zhenyu Yang	60
+Dmitry Lizorkin	9
+Viacheslav Izosimov	14
+Dominique Sotteau	22
+Jin Huang	87
+Alex Waibel	75
+Bin Guo	75
+Long Zhang	84
+Guihai Chen	94
+Gianluca Bontempi	55
+Hua Zhong	77
+Hongwei Wang	83
+Dimitris Papadias	51
+Wulf Teiwes	2
+Martin Ebner	38
+Hanqing Lu	81
+Peter G. Selfridge	21
+Gottfried Vossen	98
+Willy Zwaenepoel	52
+Maria E. Orlowska	66
+Yuan Xie 0001	68
+Wiebe van der Hoek	81
+Frank Stephan	55
+Javier Aracil	62
+Oscar Garcia	12
+Si-Qing Zheng	64
+Lawrence B. Holder	66
+Ralf Schenkel	49
+Amitabha Ghosh	24
+Douglas B. Lenat	20
+Samuel Mann	8
+Christoph Heinz	13
+Feng Lu	90
+Bernd J. Kr	82
+Fernando A. Kuipers	33
+Michael Weiss	63
+Michael Striewe	15
+George J. Klir	33
+Giovanni Soda	50
+John Tsiligaridis	15
+Yong Huang	64
+Laurent Sauvage	18
+Zhiping Jia	38
+Denis Trystram	61
+Israel Cidon	64
+Donald F. Towsley	96
+Li-Zhong Xu	7
+Yunqing Xia	38
+George V. Moustakides	29
+Dong Zhou	60
+Konstantine Arkoudas	25
+Matthew Johnson 0002	26
+Wenjia Li	16
+Rakesh Vohra	27
+Geyong Min	100
+Giuseppe De Pietro	91
+Yuxiong He	35
+Andreas Uhl	99
+Marc Spaniol	29
+Phalguni Gupta	86
+Martin K	93
+Martin N	43
+Nina Gierasimczuk	16
+Hongyu Li	47
+I-Fan Shen	17
+Prasenjit Mitra	82
+Oscar Pastor	92
+Anthony Oakden	2
+Stuart C. Shapiro	41
+Anil Kumar	79
+Manuel M. Oliveira	31
+Christophe Salzmann	20
+Nabil R. Adam	61
+Xu Zhou	64
+Dirk Grunwald	100
+Christian Schlegel	63
+M. Luisa Mart	6
+Mariangiola Dezani-Ciancaglini	53
+Lan Wang	89
+Bengt Carlsson	33
+Nadjib Badache	82
+Edward Seidel	21
+Sanjeev Kumar	90
+Rui Huang	80
+Qiong Liu	64
+Hugo Zaragoza	27
+Nikos I. Karacapilidis	66
+Xiaohua Hu	95
+Christof Fetzer	79
+Emilio Tuosto	36
+Adolfo Steiger-Gar	33
+Kenji Suzuki	100
+Rajib Mall	55
+Costas S. Iliopoulos	82
+Meinard M	46
+Wei-Chung Hsu	42
+Wonjun Lee	88
+Harry M. Sneed	40
+Giuseppe Lo Re	66
+Dirk Timmermann	84
+Dongdai Lin	59
+David Lo	70
+Yonggang Zhang	33
+Jan Mendling	70
+Markus M	100
+Hao Zhu	74
+Donald D. Cowan	74
+Risto Miikkulainen	53
+Patrick Valduriez	98
+Jiuyong Li	53
+Gautam Singh	13
+Jaeseok Kim	32
+Hiroshi Sato	44
+Esko Ukkonen	73
+Kirk Pruhs	63
+Refik Molva	74
+Krishnaiyan Thulasiraman	43
+Meng-Hiot Lim	45
+Yan Luo	76
+Zhen Lu	17
+Rajesh K. Gupta	65
+Harry G. Mairson	29
+Torben Bra	22
+Seng Wai Loke	95
+Daniel Villatoro	18
+Baomin Xu	9
+Marco Roccetti	87
+Dilip Krishnaswamy	32
+Dongyan Xu	64
+Syoji	1
+Giovanni Tummarello	23
+Anke Meyer-B	37
+Ravi Kumar	75
+Rajkumar Buyya	100
+Junjie Fu	4
+Wolfgang Hesse	34
+Marianne Winslett	95
+Hui-Ling Huang	35
+Pramod K. Varshney	92
+Aoying Zhou	86
+L. Samuelson	3
+Gudula R	68
+Huosheng Hu	71
+George Rush	5
+Jin Chen	99
+Michel Riveill	69
+Qiang Fu	100
+Jun Cai	58
+Wei Meng	45
+Jorge Casillas	32
+Duoqian Miao	47
+Andrew H. Sung	62
+Ralf H. Reussner	61
+James M. Keller	72
+Saso Blazic	26
+Ming Li 0001	80
+Lawrence J. Mazlack	34
+Thomas A. Kriz	4
+Jianguo Xiao	54
+Rene Kaiser	19
+Torben Bach Pedersen	68
+Roch H. Glitho	55
+Peter M. Rice	4
+Min-Shiang Hwang	70
+Feng Liang	60
+Wei Tu	18
+Claudio M. de Farias	10
+Gustavo Alonso	92
+Israel A. Wagner	26
+Kazimierz Subieta	46
+Hans Hagen	57
+Alfredo Petrosino	49
+Abdul Sattar	96
+Timothy W. Finin	68
+David P	86
+Richard F. Lyon	18
+Frederik Van De Putte	7
+Werner Brecht	3
+Mihai Lazarescu	35
+Robert Kozma	39
+Frank R	49
+Xun Wang	93
+Xiaojun Shen	42
+Alessandro Armando	67
+Saewoong Bahk	43
+Tapio Salakoski	66
+Kokichi Sugihara	54
+Michel A. Reniers	53
+Agostino Poggi	57
+Sadok Ben Yahia	77
+Doan B. Hoang	63
+Hamid Sarbazi-Azad	96
+Omar Cherkaoui	50
+Marco Zanoni	16
+Rui Peng	27
+D. Lee	32
+Tommaso Di Noia	70
+Qiuyu Zhang	18
+Michael Davis	8
+Yun Liu	92
+Bo Zhu	77
+Artem Polyvyanyy	26
+Lijun Shan	17
+Pietro Manzoni	84
+Hasan Hosseini Nasab	4
+Jun Sun	97
+Peter Clark	31
+Andreas Rauber	78
+Yuanyuan Wang	70
+Qing Wu	85
+Sheng Zhong	83
+Jorge Granjal	15
+Mohammed Ghanbari	99
+Philippe Merle	40
+Mohan S. Kankanhalli	83
+Gang Huang 0001	43
+Robert Wille	44
+Hanan Samet	92
+Eric J. Schwabe	24
+Yong Guan	81
+Saso Dzeroski	73
+Noem	49
+Harrick M. Vin	59
+Soon Young Jung	17
+Varun Ratnakar	23
+Lu Ruan	23
+Yi Shang	58
+Dan Chen	85
+Qingwei Ye	5
+Radimir Vrba	16
+Homayoun Najjaran	25
+Y. Wang	85
+Yi Lu	98
+Silvana Castano	71
+Laurent Lef	91
+Daniel Tuyttens	16
+Michael Schrefl	67
+John M. Boone	5
+K. G. Subramanian	56
+Aditya P. Mathur	40
+Antonio Ma	46
+Homer H. Chen	46
+Yunhong Wang	58
+Takefumi Yoshikawa	10
+Andreas D	50
+Christian Steger	86
+Marco Vieira	62
+Eleni Stroulia	84
+Abel J. P. Gomes	31
+Alessio Micheli	27
+Hongli Zhang	63
+Jacek Czerwonka	9
+Fabrizio Silvestri	59
+Christian Wieners	11
+Alexander Scheidler	25
+Michel Dubois	48
+Pablo Pav	26
+Klaus Reinhardt	37
+Peter Kovacs	9
+Axel Mosig	14
+Yu Wu	76
+Jean-Dominique Decotignie	24
+Xiaoyan Zhu	91
+Pedro Alonso	40
+Miao Wang	81
+Akinori Yonezawa	87
+Domenico Beneventano	49
+J. Hernandez	6
+Anna Brunstrom	53
+Amit Bhaya	31
+Tristan Henderson	31
+Chiara Renso	51
+Wolfgang Maass	71
+Jari Nurmi	58
+Jingdong Wang	39
+Eddie Cheng	33
+Robin J. Evans	31
+Weihong Li	28
+Josiane Mothe	41
+David B. Thomas	25
+Bo Luo	42
+Stamatis Vassiliadis	79
+Mihaela van der Schaar	75
+Bhaskar D. Rao	48
+Ling Feng	85
+Alessandro Provetti	47
+Jan Lehecka	3
+George Macleod Coghill	27
+Wen-Tsuen Chen	62
+Philip W. Trinder	50
+Xuelong Li	79
+Kriszti	94
+Jeff Thomas	5
+Tianrui Li	48
+Daniel H. Chae	5
+Marl	52
+Da-xin Liu	14
+Peng Wu	98
+Jenn-Wei Lin	20
+Grzegorz Malewicz	29
+Epaminondas Kapetanios	22
+Wilhelm Sch	58
+Heikki Mannila	85
+Ulf Roland Schmerl	1
+Chenghong Zhang	21
+Matteo Matteucci	63
+Amitava Datta	88
+Daniel Barbara	3
+T. Saint Michel	3
+Wei Fu	58
+Dirk Niggemeyer	10
+Sotiris Ioannidis	51
+Jim Dowling	36
+Ken Chen	73
+Ke Chen	87
+Daniel Pellicer	7
+Richard F. Paige	90
+Sonia Fahmy	51
+Shinobu Mizuta	7
+Paul L. Rosin	61
+Xiaobo Sharon Hu	61
+Naren Ramakrishnan	95
+Yolande Berbers	89
+Lin Ma	92
+Sanjay Ranka	80
+Fenglin Bu	13
+David P. Anderson	43
+Qian Huang	63
+Yuiko Ohta	4
+Effrosini Kokiopoulou	29
+Ichiro Satoh	97
+Sain Saginbekov	6
+Balakrishna R. Iyer	36
+Kah Phooi Seng	40
+Qun Zhang	38
+Qingqing Zhang	17
+Emmanouel A. Varvarigos	75
+Cristiano Castelfranchi	80
+Qin Lu	62
+David Bueno	12
+Alex Doboli	31
+Ayoub Al-Hamadi	52
+Keun Ho Ryu	70
+Yu-Chee Tseng	100
+Armin Graber	7
+Carlos Cotta	64
+Chai Kiat Yeo	65
+Xiaocheng Wang	6
+Tingting Wang	33
+Pieter H. Hartel	93
+Holger M. Kienle	29
+Gareth J. F. Jones	76
+Yong Cui	65
+Ludger van Elst	24
+Wayne Wolf	97
+Mandayam K. Srivas	28
+Suzanne M. Embury	54
+Hongwei Li	81
+Oded Goldreich	55
+Ranjit Jhala	38
+Chong-Sun Hwang	88
+Yixian Yang	91
+Arantza Illarramendi	70
+Willard Van Orman Quine	1
+Yifan Wu	17
+Lubom	95
+Yuta Nakaga	1
+Rainer Leupers	62
+Sandeep K. Shukla	67
+Tiago Martins	11
+Horst Bischof	86
+Steve Kremer	33
+Yu Tang	54
+Michael Backes 0001	56
+Chaomei Chen	51
+Wei Ren	90
+Limsoon Wong	84
+Yoshifumi Nishio	19
+Ay	63
+Raghavendra Singh	12
+Gerardo Canfora	80
+Laurence T. Yang	76
+Lei Zhou	93
+Le Gruenwald	78
+Mladen Stanojevic	17
+Ryszard Kowalczyk	62
+Song Ci	74
+Hao Huang	88
+Marco Cristani	55
+Gang Qu	54
+Xu Huang	63
+Michael Kirley	30
+Jeffrey Xu Yu	67
+Zhiyong Wang	68
+Johann Oberleitner	13
+Amin Vahdat	71
+James A. Hendler	82
+Dag Johansen	61
+Hua Xu	85
+Kenji Araki	76
+Mitsuru Shiozaki	10

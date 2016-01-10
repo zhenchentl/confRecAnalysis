@@ -1,0 +1,100 @@
+Ajith Abraham	152
+Wanlei Zhou	112
+Daniel Thalmann	127
+Bo Yuan	103
+Min Liu	152
+Hern	293
+Wei Wei	240
+Dong Hoon Lee	115
+David S	101
+Li Sun	104
+Ian T. Foster	130
+Ying Li	296
+Lin Yang	119
+D	628
+Thomas St	106
+Agust	384
+Min Song	102
+Jun Huang	107
+Randy H. Katz	109
+Li Ma	101
+Franco Zambonelli	131
+Louise E. Moser	112
+Xi Chen	314
+Wolfgang K	124
+Ke Wang	191
+Jos	3015
+Nadia Magnenat-Thalmann	120
+Maarten de Rijke	106
+Bo Yang	185
+Christian K	159
+Min Li	235
+Krist	106
+Peng Zhang	308
+Yu Zhang	403
+G	2273
+K	488
+Hui Wang	268
+Reda Alhajj	135
+Jie Xu	203
+Takahiro Hara	103
+Feng Li	207
+Xiang Li	297
+David Zhang	136
+Wagner Meira Jr.	122
+Llu	292
+Christos Faloutsos	136
+Wolfgang Nejdl	136
+Qi Liu	113
+Li Zhang	428
+Xing Zhang	112
+À	124
+Hui Chen	155
+Jian Cao	109
+Dong Wang	241
+Xin Liu	289
+Tom	1065
+Zhen Zhang	146
+Ö	931
+Daniel S	107
+Qin Zhang	126
+Martin B	142
+Ioannis Pitas	104
+Jie Yang	143
+Liming Chen	134
+St	1667
+Boleslaw K. Szymanski	132
+Xi Li	152
+Fei Chen	117
+Takeo Kanade	101
+Eduardo Fern	112
+Thomas M	139
+Haibo Wang	108
+Francky Catthoor	142
+Weidong Chen	104
+Ramesh Jain	106
+Yu Zhao	101
+Calton Pu	139
+B. John Oommen	111
+Lo	503
+Bin Hu	127
+Chuang Lin	156
+Yan Zhao	117
+Yang Xu	174
+Ulrich R	161
+Xin Huang	109
+Roberto Baldoni	115
+Zhen Wang	148
+He Huang	111
+Wei Huang	231
+Bo Li	248
+Xiaoli Li	119
+John M. Carroll	104
+Yang Yu	178
+Max M	137
+Gordon S. Blair	111
+Zhong Chen	124
+Feng Tian	114
+Hao Xu	117
+Carlos Jos	127
+Concepci	141
