@@ -22,3 +22,5 @@ OUTPUT_COLLAB_CONF_LEAD_POTENRIAL_COAU = "result/collaboration/conf_lead_poten_c
 
 OUTPUT_STAR_AUTHORS = "result/baconnum/stars.txt"
 OUTPUT_TARGET_AUTHORS = "result/baconnum/targetauthors.txt"
+OUTPUT_AUTHORS_BACOM_NUM = "result/baconnum/author_bacon_num.txt"
+
