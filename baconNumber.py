@@ -144,6 +144,18 @@ def extracStarsAndTargets():
 
 if __name__ == '__main__':
     # extracStarsAndTargets()
-    baconNum = BaconNumber()
-    baconNum.getShortestPathLength()
-
+    # baconNum = BaconNumber()
+    # baconNum.getShortestPathLength()
+    confNumBCNDict = dict()
+    with open(OUTPUT_AUTHORS_BACOM_NUM) as fileReader:
+        for line in fileReader:
+            confNum = int(line.split('\t')[1])
+            avgBCN = float(line.split('\t')[2])
+            tmp = confNumBCNDict.setdefault(confNum, [])
+            tmp.append(avgBCN)
+    fileReader.close()
+    for k, v in confNumBCNDict.items():
+        avg = sum(v) * 1.0 / len(v)
+        maxB = max(v)
+        minB = min(v)
+        print str(k) + '\t' + str(avg) + '\t' + str(maxB) + '\t' + str(minB)

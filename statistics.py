@@ -22,12 +22,16 @@ def getConfPaperNum():
     index = 0
     with open(OUTPUT_STATISTIC_CONF_PAPER_NUM, 'w') as fileWriter:
         mRedis = RedisHelper()
+        confPaperNum = dict()
         conferences =mRedis.getAllConfs()
         for conf in conferences:
             index += 1
             logging.info(str(index) + '--' + conf)
             paperNum = len(mRedis.getConfPapers(conf))
-            fileWriter.write(conf + '\t' + str(paperNum) + '\n')
+            tmp = confPaperNum.setdefault(paperNum, 0)
+            confPaperNum[paperNum] = tmp + 1
+        for paperNum, confNum in confPaperNum.items():
+            fileWriter.write(str(paperNum) + '\t' + str(confNum) + '\n')
     fileWriter.close()
 
 def getAuthorPaperNum():
@@ -98,4 +102,17 @@ if __name__ == '__main__':
     # getConfPaperNum()
     # getAuthorPaperNum()
     # getAuthorCoauNum()
-    getAuthorConfNum()
+    # getAuthorConfNum()
+    with open(OUTPUT_STATISTIC_CONF_PAPER_NUM) as fileReader:
+        confPaperNumDict = dict()
+        for line in fileReader:
+            paperNum = int(line.split('\t')[0])
+            confs = int(line.split('\t')[1])
+            tmp = confPaperNumDict.setdefault(paperNum / 100, 0)
+            confPaperNumDict[paperNum / 100] = tmp + confs
+        for i in range(1000):
+            if confPaperNumDict.has_key(i):
+                print str(i * 100) + '-' + str((i+1)*100 - 1 ) + '\t' + str(confPaperNumDict[i])
+            else:
+                print str(i * 100) + '-' + str((i+1)*100 - 1 ) + '\t' + '0'
+    fileReader.close()
